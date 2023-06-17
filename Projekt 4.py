@@ -33,7 +33,7 @@ else:
 URL= f"http://api.nbp.pl/api/exchangerates/rates/a/{code}/{date}/?format=json"
 # print(URL)
 
-response= requests.get(URL)
+response = requests.get(URL)
 
 if response.status_code == 404:
     print("Brak danych")
