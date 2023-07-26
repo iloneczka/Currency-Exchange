@@ -43,7 +43,7 @@ python currency_exchange.py [currency_code] [date]
 ```
 If the command-line arguments `[currency_code]` and `[date]` are not provided, the program will prompt you to enter them.
 
-## Testing for Development
+## Testing
 ?? TODO
 
 ## Solutions
