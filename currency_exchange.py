@@ -27,7 +27,7 @@ else:
     code = input("Enter currency name: ").upper().strip()
     date = parse(input("Enter date: ")).strftime("%Y-%m-%d")
 
-URL= f"http://api.nbp.pl/api/exchangerates/rates/a/{code}/{date}/?format=json"
+URL = f"http://api.nbp.pl/api/exchangerates/rates/a/{code}/{date}/?format=json"
 # print(URL)
 
 response = requests.get(URL)
