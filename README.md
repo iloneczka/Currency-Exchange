@@ -6,7 +6,7 @@
 * [Technologies Used](#technologies-used)
 * [Prerequisites](#prerequisites)
 * [Setup](#setup)
-* [Testing for Development](#testing-for-velopment)
+* [Testing](#testing)
 * [Solutions](#solutions)
 * [Future Plans](#future-plans)
 * [Inspirations and Acknowledgments](#inspirations-and-acknowledgments)
@@ -23,13 +23,11 @@ This application is designed to assist HSBC, the Swiss bank, in retrieving and a
 6. Deals with situations when exchange rate tables are not published on weekends or public holidays.
 
 ## Technologies Used
-
 The program is written in Python.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Prerequisites
-
 To run this project, make sure you have Python 3.11.2 installed on your computer.
 
 ## Setup
